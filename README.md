@@ -1,6 +1,6 @@
 Downpatching
 =============
-1. Win+R, steam://open/console
+1. [steam://open/console](steam://open/console)
 2. Run the command for your platform below.
 3. Steam will download the content to a folder in Steam\steamapps\content\app_535480\depot_xxxx (the output of the command will tell you where)
 - yadda,yadda, remember to back up anything important
